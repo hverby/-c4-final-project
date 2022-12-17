@@ -27,7 +27,7 @@ provider:
     TODOS_CREATED_AT_INDEX: CreatedAtIndex
     ATTACHMENT_S3_BUCKET: serverless-hans-todo-app-images-${self:provider.stage}
     SIGNED_URL_EXPIRATION: 300
-    AUTH_0_SECRET_ID: 08C8ohVGWLZF-0jiOlRwfxv86AvAF3VG9SQ90AaytaXWBWzLr3MoWhs0Oa0G2deB
+    AUTH_0_SECRET_ID: jGr_q635f1Utjvt90VGmE_eiG4ST9n7Dc9wTcBpKz0Uk4uPBx5slaeKgqky7-giJ
 
   logs:
     # Enable API Gateway logs
